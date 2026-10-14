@@ -4,7 +4,7 @@
 
 ![Two skew lines: other forms, closest points, shortest distance and angle](docs/line_line.png)
 
-**Part of [phamduylong.com](https://phamduylong.com)** · `type: personal` · `status: finished` · `made: October 2026, IB Math AA HL`
+**Part of [phamduylong.com](https://phamduylong.com)** · `type: personal` · `status: finished` · `made: December 2025, IB Math AA HL`
 
 ---
 
@@ -119,6 +119,8 @@ python calculator.py
   <img src="docs/plane_plane.png" width="49%" alt="Two planes intersecting">
   <img src="docs/line_line.png" width="49%" alt="Two skew lines">
 </p>
+
+> **About the Claude co-author:** Claude was used only to upload these files, which I had already written and stored locally, to GitHub, and to write this README and its supporting files (such as screenshots, `.gitignore` and `requirements.txt`). The code itself is my own work.
 
 ---
 
