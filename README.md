@@ -12,7 +12,6 @@
 
 The 3D vectors topic in IB Math AA HL (formula booklet H3.14–H3.17: lines, the vector product and planes) is mostly the same few steps repeated: change a line or a plane into another form, check whether two objects meet, then find a distance or an angle. I built a calculator that does all of these steps at once, so I could check my working on practice questions.
 
-[Long: add anything else about why you built it, in your own words.]
 
 ## Before → after
 
@@ -103,9 +102,6 @@ python calculator.py
 | `requirements.txt` | Pygame and NumPy |
 | `docs/` | Screenshots for this README |
 
-## What I learned
-
-[Long: 2–3 sentences in your own words. For example, building dropdowns and text boxes from scratch in Pygame, or which vector cases were harder to get right than you expected.]
 
 ## Limitations
 
